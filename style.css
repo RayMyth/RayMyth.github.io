@@ -1,0 +1,26 @@
+h1{
+  color: darkred;
+}
+
+h2{
+  color:blue;
+  border-bottom: 1px solid;
+}
+
+a{
+  text-decoration:none;
+}
+
+a:hover{
+  color:red;
+}
+
+body{
+  background-color: aliceblue;
+  padding-left:30px;
+  padding-right:30px;
+}
+
+#info{
+  line-height:1.5em;
+}
